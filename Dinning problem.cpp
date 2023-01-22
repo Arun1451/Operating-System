@@ -39,3 +39,4 @@ void eat(int phil)
 {
 printf("\nPhilosopher %d is eating",phil);
 }
+
