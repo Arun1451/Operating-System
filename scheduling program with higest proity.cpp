@@ -61,3 +61,4 @@ process[i].waiting_time, process[i].turn_around_time);
  printf("\n Average Turnaround Time: %f\n", average_turnaround_time);
  return 0;
 }
+
