@@ -60,3 +60,4 @@ printf("\n Average Turn Around Time: \t%f", avg_tat);
 printf("\n Average Waiting Time: \t%f", avg_wt);  
 getch();  
 }
+
