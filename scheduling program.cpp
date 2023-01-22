@@ -35,3 +35,4 @@ for(i=0;i<j;i++)
 printf("\n%s",fname[i]);
 getch();
 }
+
