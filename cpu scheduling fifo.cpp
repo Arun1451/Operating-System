@@ -41,3 +41,4 @@ int main()
     findavgTime(processes, n,  burst_time);
     return 0;
 }
+
